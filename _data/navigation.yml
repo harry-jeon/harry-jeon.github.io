@@ -10,3 +10,26 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+docs:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A1"
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B1"
+        url: /
