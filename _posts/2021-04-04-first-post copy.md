@@ -1,10 +1,9 @@
 ---
-date: 2019-01-25
+date: 2021-04-04
 title: "첫번째 글"
-categories: posts
-tags: jekyll
+categories: Javascript
+tags: Vue
 toc: true  
-toc_sticky: true 
 ---
 
 # 첫번째 글

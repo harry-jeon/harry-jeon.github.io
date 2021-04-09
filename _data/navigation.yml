@@ -4,27 +4,15 @@ main:
     url: /
   - title: "Category"
     url: /categories/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Tag"
+    url: /tags/
 
 
 docs:
-  - title: "Parent Page A"
+  - title: "Vue"
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A1"
-        url: /
+      - title: "Vue Style guide"
+        url: /tags/Vue
   - title: "Parent Page B"
     children:
       - title: "Child Page B1"
